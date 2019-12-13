@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1009019065031",
+    "firebase_url": "https://deephelper-beecb.firebaseio.com",
+    "project_id": "deephelper-beecb",
+    "storage_bucket": "deephelper-beecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009019065031:android:18a445e3bfc51dec6c24e2",
+        "android_client_info": {
+          "package_name": "com.example.deephelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009019065031-9vbau7sba3hp3ph8q34hnv22fp8ll9jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASICRerCByBfhxgjLuLbPwLmF9D3niAt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009019065031-9vbau7sba3hp3ph8q34hnv22fp8ll9jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
